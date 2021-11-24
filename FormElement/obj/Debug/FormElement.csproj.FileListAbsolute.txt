@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\FormElement\bin\Debug\FormElement.exe.config
+C:\Users\opilane\source\repos\FormElement\bin\Debug\FormElement.exe
+C:\Users\opilane\source\repos\FormElement\bin\Debug\FormElement.pdb
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.Properties.Resources.resources
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.exe
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.pdb
+C:\Users\opilane\source\repos\FormElement\obj\Debug\FormElement.Form1.resources
